@@ -6,6 +6,7 @@ This project presents a **low-cost embedded automated driving platform** built a
 
 The platform demonstrates real-time sensor processing, motor control, wireless communication, and energy-efficient power management, making it suitable for educational, research, and industrial automation applications.
 
+
 ---
 
 ## ✨ Features
